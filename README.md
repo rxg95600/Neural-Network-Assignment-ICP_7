@@ -1,6 +1,8 @@
 # Neural-Network-Assignment-ICP_7
 
+NAME: RAMA KRISHNA GANTA ID#: 700759560
 
+VIDEO: https: https://drive.google.com/file/d/1skiYi547SvAOUNONSXhe7g9Yc4JC0KSC/view?usp=drive_link
 
 Question 1:
 
