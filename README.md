@@ -21,7 +21,7 @@ import re
 from sklearn.preprocessing import LabelEncoder
 
 data = pd.read_csv('Sentiment.csv')
-# Keeping only the neccessary columns
+
 data = data[['text','sentiment']]
 
 data['text'] = data['text'].apply(lambda x: x.lower())
